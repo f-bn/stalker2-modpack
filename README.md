@@ -13,13 +13,7 @@ This repository contains a custom merge modpack for S.T.A.L.K.E.R. 2: Heart of C
 
 Firstly, you need to [repack](https://github.com/trumank/repak) tool in order to pack and unpack Unreal Engine PAK files.
 
-Unpack mods:
-
-```
-repak.exe unpack .\even_longer_days_4h.pak -o temp/
-```
-
-Generate modpack from "merge" folder:
+Once the tool is downloaded and installed, you can generate the modpack from the "modpack" folder containing merged mods:
 
 ```
 repak.exe pack modpack/ custom_modpack_27112024_1051_P.pak
