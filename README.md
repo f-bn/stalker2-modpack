@@ -15,11 +15,19 @@ Firstly, you need to [repack](https://github.com/trumank/repak) tool in order to
 
 Once the tool is downloaded and installed, you can generate the modpack from the "modpack" folder containing merged mods:
 
-```
+```powershell
 repak.exe pack modpack/ custom_modpack_27112024_1051_P.pak
 ```
 
-*TODO*
+Then, create a `~mods` directory in the following game directory (**the tilde character is mandatory**): 
+  - ***Steam*** - `path\to\SteamLibrary\steamapps\common\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks`
+
+Finally, copy the generated PAK file in the `~mods` directory created above:
+
+```powershell
+cp "path\to\custom_modpack_27112024_1051_P.pak" `
+  "path\to\SteamLibrary\steamapps\common\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks\~mods"
+```
 
 ### References
 
