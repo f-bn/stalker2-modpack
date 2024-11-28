@@ -9,6 +9,7 @@ This repository contains a custom merge modpack for S.T.A.L.K.E.R. 2: Heart of C
 - [Even Longer Days 0.1 (4h variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/47)
 - [No (or reduced) weight for ammo nades meds and food 1.0 (50% variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/45)
 - [Reasonable Weapon Degradation by VAXIS](https://www.nexusmods.com/stalker2heartofchornobyl/mods/33)
+- [Reduced Repair Cost (50% variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/77)
 
 #### How to build the modpack
 
