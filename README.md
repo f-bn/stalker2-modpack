@@ -8,6 +8,7 @@ This repository contains a custom merge modpack for S.T.A.L.K.E.R. 2: Heart of C
 - [ALife Extended Alive 1.2 x Axxii's Stealth 1.7](https://www.nexusmods.com/stalker2heartofchornobyl/mods/273)
 - [Even Longer Days 0.1 (4h variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/47)
 - [No (or reduced) weight for ammo nades meds and food 1.0 (50% variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/45)
+- [Reasonable Weapon Degradation by VAXIS](https://www.nexusmods.com/stalker2heartofchornobyl/mods/33)
 
 #### How to build the modpack
 
