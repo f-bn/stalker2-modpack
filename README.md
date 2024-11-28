@@ -10,6 +10,7 @@ This repository contains a custom merge modpack for S.T.A.L.K.E.R. 2: Heart of C
 - [No (or reduced) weight for ammo nades meds and food 1.0 (50% variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/45)
 - [Reasonable Weapon Degradation by VAXIS](https://www.nexusmods.com/stalker2heartofchornobyl/mods/33)
 - [Reduced Repair Cost (50% variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/77)
+- [Grok's Modular Mutants Health (Balanced variant)](https://www.nexusmods.com/stalker2heartofchornobyl/mods/23)
 
 #### How to build the modpack
 
@@ -21,7 +22,7 @@ Once the tool is downloaded and installed, you can generate the modpack from the
 repak.exe pack modpack/ custom_modpack_27112024_1051_P.pak
 ```
 
-Then, create a `~mods` directory in the following game directory (**the tilde character is mandatory**): 
+Then, create a `~mods` directory in the following game directory (**the tilde character in folder name is mandatory**): 
   - ***Steam*** - `path\to\SteamLibrary\steamapps\common\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks`
 
 Finally, copy the generated PAK file in the `~mods` directory created above:
